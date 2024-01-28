@@ -1,10 +1,10 @@
 import { BrowserRouter,Routes, Route, Navigate  } from 'react-router-dom';
-import QuienesSomos from '../QuienesSomos';
-import Afiliados from '../Afiliados';
-import Empresas from '../Empresas';
-import Mutual from '../Mutual';
-import Tusrismo from '../Turismo';
-import Nav from '../Nav';
+import QuienesSomos from './content/QuienesSomos';
+import Afiliados from './content/Afiliados';
+import Empresas from './content/Empresas';
+import Mutual from './content/Mutual';
+import Tusrismo from './content/Turismo';
+import Nav from '../components/content/Nav';
 
 function Menu (){
     return (

@@ -3,7 +3,7 @@ function Turismo (){
         <div>
             <h1>Turismo</h1>
             
-  <div class="dropdown-content">
+
     <a href="#">Camping Bermejo</a>
     <a href="#">Camping Cipolletti</a>
     <a href="#">Camping Malargüe</a>
